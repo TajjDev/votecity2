@@ -1,6 +1,6 @@
 import React from 'react'
 import "./features.css"
-import TheFeat from './theFeat'
+import TheFeat from './TheFeat'
 import img from "/src/assets/img1.png"
 import img2 from "/src/assets/img2.png"
 import img3 from "/src/assets/img3.png"
