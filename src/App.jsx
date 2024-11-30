@@ -4,8 +4,8 @@ import './App.css'
 // import GetStarted from './assets/component/get started/GetStarted'
 import About from './assets/component/about/About'
 // import Nav from './assets/component/nav/Nav'
-// import Aboutt from './assets/component2/about us/Aboutt'
-// import Features from './assets/component2/features/Features'
+import Aboutt from './assets/component2/about us/Aboutt'
+import Features from './assets/component2/features/Features'
 // import Features from './assets/component2/features/Features'
 // impor
 const App = () => {
@@ -20,10 +20,10 @@ const App = () => {
       {/* <GetStarted></GetStarted> */}
       {/* <About></About> */}
     {/* </div> */}
-{/*     <Aboutt/> */}
+    <Aboutt/>
     <About/>
     {/* <Features/> */}
-    // <Features/>
+    {/* <Features/> */}
     </>
   )
 }
