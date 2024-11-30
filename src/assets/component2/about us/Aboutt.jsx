@@ -21,8 +21,8 @@ const Aboutt = () => {
     </div>
     {/* <Button */}
     <div id="body">
-      <Button href={"/#"} text={"Download Now"}></Button>
-      <Button bod={"1px solid rgba(224, 224, 224, 1)"} fon={'none'} the={"rgba(224, 224, 224, 1)"} href={"/#"} text={"Learn More"}></Button>
+      <Button idd={"idd"} href={"/#"} text={"Download Now"}></Button>
+      <Button idd={"idd"} bod={"1px solid rgba(224, 224, 224, 1)"} fon={'none'} the={"rgba(224, 224, 224, 1)"} href={"/#"} text={"Learn More"}></Button>
     </div>
     </div>
   )

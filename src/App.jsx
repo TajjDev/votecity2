@@ -7,6 +7,7 @@ import './App.css'
 import Aboutt from './assets/component2/about us/Aboutt'
 import Features from './assets/component2/features/Features'
 import About from './assets/component2/about/About'
+import HowItWorks from './assets/component2/how it works/HowItWorks'
 // import Features from './assets/component2/features/Features'
 // impor
 const App = () => {
@@ -26,6 +27,7 @@ const App = () => {
     <About/>
     {/* <Features/> */}
     <Features/>
+    <HowItWorks/>
     </>
   )
 }

@@ -88,6 +88,10 @@
     justify-content: center;
     gap: 16px;
 }
+#idd{
+    display: flex;
+    align-items: center;
+}
 #body a{
     margin-bottom: 20px;
     text-align: center;

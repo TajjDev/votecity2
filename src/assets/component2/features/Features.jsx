@@ -14,7 +14,7 @@ const Features = () => {
         <TheFeat text={"Event"}span={"Booking:"} img={img2} text2={"“Discover, organize, and register for local events. Stay connected!”"}/>
         <TheFeat text={"Project"}span={"Funding:"} img={img3} text2={"Bring your idea to life, get fun ding and donate to support causes that matters to you"}/>
     </div>
-    <br /><br /> <br /><br /><br /><br /><br /> <br /><br />
+    <br /> <br /><br />
     </>
   )
 }

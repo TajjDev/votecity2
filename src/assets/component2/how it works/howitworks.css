@@ -1,0 +1,45 @@
+#work{
+    color: #fff;
+    width: 90%;
+    padding: 32px;
+    display: flex;
+    font-family: poppins;
+    flex-direction: column;
+    justify-self: center;
+}
+#work p,#work h3{
+    width: 100%;
+}
+#work p, #step1 p{
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 500;
+}
+#work h3{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 32px;
+    line-height: 22px;
+    font-weight: 700;
+}
+#step1{
+    margin-top: 40px;
+    width: 100%;
+}
+#step1 p{
+    text-align: center;
+    width: 100%;
+}
+#step1 p span{
+    color:rgba(247, 190, 89, 1);
+}
+#id{
+    width: 32px;
+    height: 32px;
+    
+}
+#ppp{
+    /* padding-left: 10px; */
+    /* margin-l: 10px; */
+    /* padding-right: 0px; */
+}
