@@ -23,7 +23,7 @@ const App = () => {
     <Aboutt/>
     <About/>
     {/* <Features/> */}
-    {/* <Features/> */}
+    <Features/>
     </>
   )
 }
