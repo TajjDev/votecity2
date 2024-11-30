@@ -45,7 +45,7 @@
 /* } */
 
 *{
-  width: 430px;
+  width: 430px auto;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
