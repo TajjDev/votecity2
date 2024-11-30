@@ -7,7 +7,7 @@ import img3 from "/src/assets/img3.png"
 const Features = () => {
   return (
     <>
-    <h4>Features</h4>
+{/*     <h4>Features</h4> */}
     <div id="feat">
         <TheFeat text={"Pull"}span={"Voting:"} img={img} text2={"Create your own polls, cast your vote, join the conversation and make an impact"}/>
         <TheFeat text={"Event"}span={"Booking:"} img={img2} text2={"“Discover, organize, and register for local events. Stay connected!”"}/>
