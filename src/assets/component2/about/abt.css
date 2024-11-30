@@ -1,0 +1,54 @@
+#aboutt{
+    width: 90%;
+    padding: 50px 0;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    color: rgba(255, 255, 255, 1);    
+    font-family: poppins;
+}
+#about p{
+    width: 100%;
+
+}
+#abt #p{
+    font-size: 24px;
+    width: 60%;
+    text-align: center;
+    font-weight: 700;
+    line-height: 26px;
+}
+
+#abt #pp{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+    text-align: center;
+}
+#abt{
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+}
+#misvis{
+    width: 100%;
+}
+#vision, #mission{
+    border-left: 1px solid #f5eb8c;
+    padding-left: 16px ;
+    width: 100%;
+    margin-bottom: 30px;
+}
+#vision h3, #mission h3{
+    width: 100%;
+}
+#vision p, #mission p{
+    width: 100%;
+}
+#vision span, #mission span{
+    color: #f5eb8c;
+}

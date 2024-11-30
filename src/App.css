@@ -43,8 +43,9 @@
     /* height: 300px; */
   /* } */
 /* } */
+/* @media screen and (max-width:430px) { */
   *{
-    width: 430px auto ;
+    width: 430px ;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -54,3 +55,4 @@
   body{
     background-color: #000;
   }
+/* } */

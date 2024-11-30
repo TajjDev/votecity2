@@ -5,6 +5,7 @@ h4{
     font-weight: 700;
     font-family: poppins;
     text-align: center;
+    width: 100%;
 }
 #each{
     display: flex;
